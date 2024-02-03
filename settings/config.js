@@ -10,7 +10,7 @@ module.exports = {
   embed: {
     color: process.env.color || "#343A40",
     wrongcolor: process.env.wrongcolor || "#8a0808",
-    footertext: "Subscribe To Axo Coder | ",
+    footertext: "only for ᑢ Ø Č ⓞ's | ",
     footericon: "🔥",
   },
 

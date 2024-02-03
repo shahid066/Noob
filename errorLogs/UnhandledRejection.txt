@@ -2265,3 +2265,26 @@ SyntaxError: Unexpected token < in JSON at position 0
 [object Promise]
 31/1/2024, 8:38:27 pm
 ------------------------------------------------------------------------
+
+[Error_Handling] :: Unhandled Rejection/Catch
+SimplyError: "NOT_SPECIFIED | Provide an valid mongodb uri string."
+Tip: Expected an MongoDB URI. Received undefined
+
+[object Promise]
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Unhandled Rejection/Catch
+SimplyError: "NOT_SPECIFIED | Provide an valid mongodb uri string."
+Tip: Expected an MongoDB URI. Received undefined
+
+[object Promise]
+1/2/2024, 3:59:54 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Unhandled Rejection/Catch
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+[object Promise]
+1/2/2024, 3:59:54 pm
+------------------------------------------------------------------------

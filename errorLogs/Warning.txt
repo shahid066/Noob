@@ -1258,3 +1258,33 @@ DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pa
 DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
 31/1/2024, 8:38:27 pm
 ------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+1/2/2024, 3:59:54 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+1/2/2024, 3:59:54 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+1/2/2024, 3:59:54 pm
+------------------------------------------------------------------------

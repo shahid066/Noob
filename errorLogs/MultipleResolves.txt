@@ -1713,3 +1713,59 @@ resolve
 undefined
 31/1/2024, 8:38:27 pm
 ------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:33:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+1/2/2024, 3:59:54 pm
+------------------------------------------------------------------------
